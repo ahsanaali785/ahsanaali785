@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I'm Ahsan Ali
 
-<!--
-**ahsanaali785/ahsanaali785** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Software Engineering Student from Karachi, Pakistan
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 💻 Passionate about software development and problem solving
+- 🌱 Currently learning AI, DevOps, and Git & GitHub
+- 🎯 Seeking Software Engineering Internship opportunities
+- 📚 Always learning new technologies and building projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- Python
+- Flutter
+- Git & GitHub
+
+## 📌 Current Focus
+- Artificial Intelligence
+- DevOps
+- Building real-world software projects
+
+## 📫 Contact
+📧ahsanaalii785@gmail.com
+linkdin: https://www.linkedin.com/in/ahsan-ali
+
+---
+⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.## Hi there 👋
+
